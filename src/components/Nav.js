@@ -29,7 +29,7 @@ function NavBar({ gameEnded }) {
     <nav className="nav">
       <ul>
         <li className="title">
-          <a href="/">Flip Game</a>
+          <a href="/Flip-Card-Game/">Flip Game</a>
         </li>
         <li>⏱️ {seconds} Seconds</li>
         <li>
