@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5f21893.css",
-    "main.js": "/static/js/main.e2bd45ef.js",
-    "index.html": "/index.html",
-    "main.e5f21893.css.map": "/static/css/main.e5f21893.css.map",
-    "main.e2bd45ef.js.map": "/static/js/main.e2bd45ef.js.map"
+    "main.css": "/Flip-Card-Game/static/css/main.e5f21893.css",
+    "main.js": "/Flip-Card-Game/static/js/main.e2bd45ef.js",
+    "index.html": "/Flip-Card-Game/index.html",
+    "main.e5f21893.css.map": "/Flip-Card-Game/static/css/main.e5f21893.css.map",
+    "main.e2bd45ef.js.map": "/Flip-Card-Game/static/js/main.e2bd45ef.js.map"
   },
   "entrypoints": [
     "static/css/main.e5f21893.css",
